@@ -46,3 +46,9 @@ Use the following pre-built template to deploy this architecture to Azure:
    * [Quickstart: Use Azure Cache for Redis in .NET Core](/azure/azure-cache-for-redis/cache-dotnet-core-quickstart)
    * [Create a Web App plus Azure Cache for Redis using a template](/azure/azure-cache-for-redis/cache-web-app-arm-with-redis-cache-provision)
    * [Tutorial: Create a cache-aside leaderboard on ASP.NET](/azure/azure-cache-for-redis/cache-web-app-cache-aside-leaderboard)
+
+## Related resources
+* [E-commerce website running in secured App Service Environment](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/ecommerce-website-running-in-secured-ase)
+* [Scale up an app in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/manage-scale-up)
+* [ASP.NET Session State Provider for Azure Cache for Redis](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-aspnet-session-state-provider)
+* [Web application monitoring on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/app-monitoring)
